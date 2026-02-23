@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "s_xg_nid"
+version = "3.0.0"
+authors = [{name="Security Research Lab"}]
+description = "Semantic Intrusion Detection System"
+requires-python = ">=3.9"
